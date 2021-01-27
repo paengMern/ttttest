@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ttt" max_length="40" name="x_520266_ttt_ttt" sizeclass="4" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Date closed" max_length="40" name="date_closed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="apac" label="Geography" mandatory="true" max_length="40" name="geography" type="string">
+            <choice>
+                <element inactive_on_update="false" label="APAC" sequence="0" value="apac"/>
+                <element inactive_on_update="false" label="Americas" sequence="1" value="americas"/>
+                <element inactive_on_update="false" label="EMEA" sequence="2" value="emea"/>
+                <element inactive_on_update="false" label="Japan" sequence="3" value="japan"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="IMT" max_length="40" name="imt" type="string"/>
+        <element attributes="encode_utf8=false" label="L1 Resource" max_length="32" name="l1_resource" type="string"/>
+        <element attributes="encode_utf8=false" label="L2 Resource" max_length="32" name="l2_resource" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="L3 Resource" max_length="32" name="l3_resource" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Level" max_length="40" name="level" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="40" name="product" type="string"/>
+        <element attributes="encode_utf8=false" label="Reference number" max_length="32" name="reference_number" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="agency partner" label="Role" max_length="40" name="role" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Agency partner" sequence="0" value="agency partner"/>
+                <element inactive_on_update="false" label="BT/IT specialist" sequence="1" value="bt/it specialist"/>
+                <element inactive_on_update="false" label="Data analyst" sequence="2" value="data analyst"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Severity" max_length="40" name="severity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="new" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Open" sequence="1" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Subtype" max_length="40" name="subtype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+        <index name="index">
+            <element name="l1_resource"/>
+        </index>
+        <index name="index2">
+            <element name="l2_resource"/>
+        </index>
+        <index name="index3">
+            <element name="l3_resource"/>
+        </index>
+        <index name="index4">
+            <element name="reference_number"/>
+        </index>
+        <index name="index5">
+            <element name="requestor"/>
+        </index>
+        <index name="index6">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

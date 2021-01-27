@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Resolvers" section_id="a10bd3ed2ff9201044bfd0ccf699b633" sys_domain="global" table="x_520266_ttt_ttt" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_closed</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>650bd3ed2ff9201044bfd0ccf699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>e90bd3ed2ff9201044bfd0ccf699b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reference_number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>610bd3ed2ff9201044bfd0ccf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>e50bd3ed2ff9201044bfd0ccf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>l1_resource</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>6d0bd3ed2ff9201044bfd0ccf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>l2_resource</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>e10bd3ed2ff9201044bfd0ccf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>l3_resource</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_id>690bd3ed2ff9201044bfd0ccf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolvers" display_value="Resolvers" name="x_520266_ttt_ttt" sys_domain="global" view="b11786fbb8e02010304ceb7d5057e727">a10bd3ed2ff9201044bfd0ccf699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Resolvers</caption>
+            <header>false</header>
+            <name>x_520266_ttt_ttt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-19 10:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a10bd3ed2ff9201044bfd0ccf699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resolvers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TTT" source="x_520266_ttt">1db09fa52ff9201044bfd0ccf699b691</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TTT">1db09fa52ff9201044bfd0ccf699b691</sys_scope>
+            <sys_update_name>sys_ui_section_a10bd3ed2ff9201044bfd0ccf699b633</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-19 10:58:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">b11786fbb8e02010304ceb7d5057e727</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

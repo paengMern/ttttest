@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="ttt" name="ttt">6a42df292ff9201044bfd0ccf699b6f6</contains>
+        <role display_value="x_520266_ttt.admin" name="x_520266_ttt.admin">dac0dfe52ff9201044bfd0ccf699b612</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 10:20:17</sys_created_on>
+        <sys_id>a64213692ff9201044bfd0ccf699b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ttt.x_520266_ttt.admin</sys_name>
+        <sys_package display_value="TTT" source="x_520266_ttt">1db09fa52ff9201044bfd0ccf699b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TTT">1db09fa52ff9201044bfd0ccf699b691</sys_scope>
+        <sys_update_name>sys_user_role_contains_a64213692ff9201044bfd0ccf699b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 10:20:17</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

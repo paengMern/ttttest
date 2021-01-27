@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>0</order>
+        <question display_value="Geography">0872e3252f3d201044bfd0ccf699b651</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 11:30:51</sys_created_on>
+        <sys_id>8472e3252f3d201044bfd0ccf699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>APAC</sys_name>
+        <sys_package display_value="TTT" source="x_520266_ttt">1db09fa52ff9201044bfd0ccf699b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TTT">1db09fa52ff9201044bfd0ccf699b691</sys_scope>
+        <sys_update_name>question_choice_8472e3252f3d201044bfd0ccf699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 11:30:51</sys_updated_on>
+        <text>APAC</text>
+        <value>apac</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=8472e3252f3d201044bfd0ccf699b656"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>8472e3252f3d201044bfd0ccf699b656</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 11:30:51</sys_created_on>
+        <sys_id>c472e3252f3d201044bfd0ccf699b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 11:30:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>8472e3252f3d201044bfd0ccf699b656</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 11:30:51</sys_created_on>
+        <sys_id>8c72e3252f3d201044bfd0ccf699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 11:30:51</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

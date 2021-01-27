@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Ttt 1611051297928" max_length="40" name="x_520266_ttt_1611051297928" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Customer" label="Customer" max_length="40" name="u_customer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date closed" label="Date closed" max_length="40" name="u_date_closed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IMT" label="IMT" max_length="40" name="u_imt" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L1 Resource" label="L1 Resource" max_length="40" name="u_l1_resource" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L2 Resource" label="L2 Resource" max_length="40" name="u_l2_resource" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L3 Resource" label="L3 Resource" max_length="40" name="u_l3_resource" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Level" label="Level" max_length="40" name="u_level" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reference number" label="Reference number" max_length="40" name="u_reference_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requestor" label="Requestor" max_length="40" name="u_requestor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Severity" label="Severity" max_length="40" name="u_severity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subtype" label="Subtype" max_length="40" name="u_subtype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

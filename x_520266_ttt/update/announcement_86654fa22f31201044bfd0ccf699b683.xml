@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target>page</click_target>
+        <details/>
+        <details_link_text/>
+        <details_page display_value="test_list">de0d7676cb03020000f8d856634c9cb5</details_page>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2021-01-21 11:58:07</from>
+        <glyph/>
+        <glyph_alt_text/>
+        <name>test</name>
+        <public>true</public>
+        <roles/>
+        <summary>This is a test</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 11:58:57</sys_created_on>
+        <sys_id>86654fa22f31201044bfd0ccf699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="TTT" source="x_520266_ttt">1db09fa52ff9201044bfd0ccf699b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TTT">1db09fa52ff9201044bfd0ccf699b691</sys_scope>
+        <sys_update_name>announcement_86654fa22f31201044bfd0ccf699b683</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 11:58:57</sys_updated_on>
+        <title>maitenance coming ....</title>
+        <to>2021-01-22 12:10:13</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=86654fa22f31201044bfd0ccf699b683"/>
+</record_update>
